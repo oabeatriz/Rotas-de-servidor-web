@@ -23,4 +23,4 @@ res.end()
 })
 
 servidor.listen(porta, () => {console.log("Servidor rodando")})
-/* alterações de rota na barra URL do servidor web em questão
+/* alterações de rota na barra URL do servidor web em questão */
